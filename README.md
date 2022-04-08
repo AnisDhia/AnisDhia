@@ -1,6 +1,6 @@
 <!-- [![Anurag's GitHub stats]() -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnisDhia&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-
+![](https://visitor-badge.laobi.icu/badge?page_id=AnisDhia.AnisDhia)
 <!-- [![Top Langs]() -->
 <!-- [![GitHub Streak]() -->
 
