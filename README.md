@@ -15,6 +15,6 @@
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=AnisDhia&count_private=true&show_icons=true&theme=codeSTACKr&include_all_commits=true"/>
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnisDhia&theme=codeSTACKr&langs_count=8"/>    
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AnisDhia&date_format=M%20j%5B%2C%20Y%5D&stroke=ffe400&border=0c1a25&background=09131b&ring=ffe400&fire=ffe400"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AnisDhia&date_format=M%20j%5B%2C%20Y%5D&stroke=ff652f&border=0c1a25&background=09131b&ring=ff652f&fire=ffe400&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff652f&sideLabels=ffffff&dates=ffffff"/>
 </div>
 
