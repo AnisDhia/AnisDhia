@@ -1,16 +1,14 @@
-<!-- [![Anurag's GitHub stats]() -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnisDhia&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-![](https://visitor-badge.laobi.icu/badge?page_id=AnisDhia.AnisDhia)
-[![Github](https://img.shields.io/github/followers/AnisDhia?label=Follow&style=social)](https://github.com/CharalambosIoannou)
-<!-- [![Top Langs]() -->
-<!-- [![GitHub Streak]() -->
+<!-- ![](https://visitor-badge.laobi.icu/badge?page_id=AnisDhia.AnisDhia)
+[![Github](https://img.shields.io/github/followers/AnisDhia?label=Follow&style=social)](https://github.com/CharalambosIoannou) -->
 
 <code><img height="20" src="https://img.icons8.com/color/48/000000/flutter.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/dart.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/452/c-programming.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vulkan/vulkan.png"></code>    
+<code><img height="20" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/javascript--v1.png"></code>    
+<code><img height="20" src="https://img.icons8.com/color/48/000000/html-5--v1.png"></code>    
+<code><img height="20" src="https://img.icons8.com/color/48/000000/css3.png"></code>    
 
 
 
