@@ -1,13 +1,13 @@
-##  <img align="center" src="./svgs/icons8-bendy.svg" height="40" /> Hi My name is Anis 
+##  <img align="center" src="./svgs/icons8-bendy.svg" height="64" /> Hi My name is Anis 
 
 ‎I am a passionate Software Engineer specializing in Flutter mobile and desktop development with a strong background in computer systems engineering. My expertise lies in building robust and visually stunning cross-platform applications. Additionally, I have a keen interest in game development and embedded systems, constantly seeking opportunities to expand my knowledge and skills in these domains.
 
-*   <img align="center" src="./svgs/icons8-globe.svg" height="30"/>  I'm based in Algeria
-*   <img align="center" src="./svgs/icons8-portfolio.svg" height="30"/>  See my portfolio [here](https://anisdhia.me/)
-*   <img align="center" src="./svgs/icons8-email.svg" height="30"/>  You can contact me at [contact@anisdhia.me](mailto:contact@anisdhia.me)
-*   <img align="center" src="./svgs/icons8-programming-flag.svg" height="30"/>  I'm currently working as a freelancer
-*   <img align="center" src="./svgs/icons8-learning.svg" height="30"/>  I'm learning Next.js
-*   <img align="center" src="./svgs/icons8-handshake.svg" height="30"/>  I'm open to collaboration
+*   <img align="center" src="./svgs/icons8-globe.svg" height="40"/>  I'm based in Algeria
+*   <img align="center" src="./svgs/icons8-portfolio.svg" height="40"/>  See my portfolio [here](https://anisdhia.me/)
+*   <img align="center" src="./svgs/icons8-email.svg" height="40"/>  You can contact me at [contact@anisdhia.me](mailto:contact@anisdhia.me)
+*   <img align="center" src="./svgs/icons8-programming-flag.svg" height="40"/>  I'm currently working as a freelancer
+*   <img align="center" src="./svgs/icons8-learning.svg" height="40"/>  I'm learning Next.js
+*   <img align="center" src="./svgs/icons8-handshake.svg" height="40"/>  I'm open to collaboration
 
 <a href="https://www.github.com/danielcranney" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/anisdhia?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
