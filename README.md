@@ -18,7 +18,7 @@ src="https://img.shields.io/github/followers/anisdhia?logo=github&style=for-the-
 [<code><img height="40" src="https://img.icons8.com/color/48/000000/dart.png"></code>](https://dart.dev)
 [<code><img height="40" src="https://img.icons8.com/color/48/000000/firebase.png"></code>](https://firebase.google.com)
 [<code><img height="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored.svg"></code>](https://appwrite.io)
-[<code><img height="40" src="https://img.icons8.com/color/48/000000/figma--v1.png"></code>](figma.com/)
+[<code><img height="40" src="https://img.icons8.com/color/48/000000/figma--v1.png"></code>](https://www.figma.com)
 [<code><img height="40" src="https://img.icons8.com/color/48/000000/git.png"></code>](https://git-scm.com)
 [<code><img height="40" src="./svgs/icons8-arch-linux.svg"></code>](https://archlinux.org)
 <code><img height="40" src="https://img.icons8.com/color/48/000000/linux.png"></code>
