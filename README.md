@@ -9,7 +9,7 @@
 *   <img align="center" src="./svgs/icons8-learning.svg" height="40"/>  I'm learning [<img align="center" src="./svgs/nextjs.svg" height="24" target="_blank"/>](https://nextjs.org)
 *   <img align="center" src="./svgs/icons8-handshake.svg" height="40"/>  I'm open to collaboration
 
-<a href="https://www.github.com/danielcranney" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/anisdhia" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/anisdhia?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ## SKILLS
