@@ -6,7 +6,7 @@
 *   <img align="center" src="./svgs/icons8-portfolio.svg" height="40"/>  See my portfolio [here](https://anisdhia.me/)
 *   <img align="center" src="./svgs/icons8-email.svg" height="40"/>  You can contact me at [contact@anisdhia.me](mailto:contact@anisdhia.me)
 *   <img align="center" src="./svgs/icons8-programming-flag.svg" height="40"/>  I'm currently working as a freelancer
-*   <img align="center" src="./svgs/icons8-learning.svg" height="40"/>  I'm learning [<img align="center" src="./svgs/nextjs.svg" height="24" target="_blank"/>](https://nextjs.org)
+*   <img align="center" src="./svgs/icons8-learning.svg" height="40"/>  I'm learning Next.js [<img align="center" src="./svgs/nextjs.svg" height="24" target="_blank"/>](https://nextjs.org)
 *   <img align="center" src="./svgs/icons8-handshake.svg" height="40"/>  I'm open to collaboration
 
 <a href="https://www.github.com/anisdhia" target="_blank" rel="noreferrer"><img
