@@ -50,3 +50,4 @@ src="https://img.shields.io/github/followers/anisdhia?logo=github&style=for-the-
     <img src="https://github-readme-streak-stats.herokuapp.com?user=AnisDhia&date_format=M%20j%5B%2C%20Y%5D&stroke=ff652f&border=0c1a25&background=09131b&ring=ff652f&fire=ffe400&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff652f&sideLabels=ff652f&dates=ffffff"/>
 </div>
 
+[![](https://visitcount.itsvg.in/api?id=anisdhia&icon=5&color=6)](https://visitcount.itsvg.in)
