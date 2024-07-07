@@ -24,6 +24,8 @@ src="https://img.shields.io/github/followers/anisdhia?logo=github&style=for-the-
 <code><img height="40" src="https://img.icons8.com/color/48/000000/linux.png"></code>
 [<code><img height="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code>]()
 [<code><img height="40" src="https://img.icons8.com/color/452/c-programming.png"></code>]()
+[<code><img height="40" src="https://img.icons8.com/?size=100&id=eETV3RNHVrWA&format=png&color=000000"></code>]()
+[<code><img height="40" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000"></code>]()
 <!-- [<code><img height="40" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"></code>](https://www.mysql.com)
 [<code><img height="40" src="https://img.icons8.com/fluency/48/000000/maria-db.png"></code>](https://mariadb.org) -->
 <!-- <code><img height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"></code> -->
