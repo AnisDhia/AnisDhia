@@ -26,7 +26,7 @@ src="https://img.shields.io/github/followers/anisdhia?logo=github&style=for-the-
 [<code><img height="40" src="https://img.icons8.com/?size=100&id=eETV3RNHVrWA&format=png&color=000000"></code>]()
 [<code><img height="40" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000"></code>]()
 [<code><img height="40" src="./svgs/nextjs.svg" height="24" target="_blank"/></code>](https://nextjs.org)
-### Backend
+### Databases
 [<code><img height="40" src="https://img.icons8.com/color/48/000000/firebase.png"></code>](https://firebase.google.com)
 [<code><img height="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored.svg"></code>](https://appwrite.io)
 [<code><img height="40" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"></code>](https://www.mysql.com)
