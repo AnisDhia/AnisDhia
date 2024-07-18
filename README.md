@@ -14,22 +14,31 @@ src="https://img.shields.io/github/followers/anisdhia?logo=github&style=for-the-
 
 ## SKILLS
 ------------------------
-[<code><img height="40" src="https://img.icons8.com/color/48/000000/flutter.png"></code>](https://flutter.dev)
+### Languages
 [<code><img height="40" src="https://img.icons8.com/color/48/000000/dart.png"></code>](https://dart.dev)
+[<code><img height="40" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000"></code>]()
+[<code><img height="40" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"></code>]()
+[<code><img height="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code>]()
+[<code><img height="40" src="https://img.icons8.com/color/452/c-programming.png"></code>]()
+<code><img height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"></code>
+### Frameworks
+[<code><img height="40" src="https://img.icons8.com/color/48/000000/flutter.png"></code>](https://flutter.dev)
+[<code><img height="40" src="https://img.icons8.com/?size=100&id=eETV3RNHVrWA&format=png&color=000000"></code>]()
+[<code><img height="40" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000"></code>]()
+[<code><img height="40" src="./svgs/nextjs.svg" height="24" target="_blank"/></code>](https://nextjs.org)
+### Backend
 [<code><img height="40" src="https://img.icons8.com/color/48/000000/firebase.png"></code>](https://firebase.google.com)
 [<code><img height="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored.svg"></code>](https://appwrite.io)
+[<code><img height="40" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"></code>](https://www.mysql.com)
+[<code><img height="40" src="https://img.icons8.com/fluency/48/000000/maria-db.png"></code>](https://mariadb.org) 
+### Tools
 [<code><img height="40" src="https://img.icons8.com/color/48/000000/figma--v1.png"></code>](https://www.figma.com)
 [<code><img height="40" src="https://img.icons8.com/color/48/000000/git.png"></code>](https://git-scm.com)
 [<code><img height="40" src="./svgs/icons8-arch-linux.svg"></code>](https://archlinux.org)
 <code><img height="40" src="https://img.icons8.com/color/48/000000/linux.png"></code>
-[<code><img height="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code>]()
-[<code><img height="40" src="https://img.icons8.com/color/452/c-programming.png"></code>]()
-[<code><img height="40" src="https://img.icons8.com/?size=100&id=eETV3RNHVrWA&format=png&color=000000"></code>]()
-[<code><img height="40" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000"></code>]()
-[<code><img height="40" src="./svgs/nextjs.svg" height="24" target="_blank"/></code>](https://nextjs.org)
-<!-- [<code><img height="40" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"></code>](https://www.mysql.com)
-[<code><img height="40" src="https://img.icons8.com/fluency/48/000000/maria-db.png"></code>](https://mariadb.org) -->
-<!-- <code><img height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"></code> -->
+
+
+
 <!-- <code><img height="40" src="https://img.icons8.com/color/48/000000/javascript--v1.png"></code> -->
 <!-- <code><img height="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png"></code> -->
 <!-- <code><img height="40" src="https://img.icons8.com/color/48/000000/css3.png"></code> -->
