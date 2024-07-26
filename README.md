@@ -51,7 +51,7 @@ src="https://img.shields.io/github/followers/anisdhia?logo=github&style=for-the-
 <a href="http://www.instagram.com/anis__3d" target="_blank" rel="noreferrer"><img src="./svgs/icons8-instagram.svg" height="64" /></a>
 <a href="https://www.linkedin.com/in/anisdhia" target="_blank" rel="noreferrer"><img src="./svgs/icons8-linked-in.svg" height="64" /></a>
 </p>
-<a href="https://www.buymeacoffee.com/anisdhia" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<!-- <a href="https://www.buymeacoffee.com/anisdhia" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> -->
 
 ## <b>MY GITHUB STATS</b>
 ------------------------
