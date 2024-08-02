@@ -7,7 +7,7 @@
 *   <img align="center" src="./svgs/icons8-email.svg" height="40"/>  You can contact me at [contact@anisdhia.me](mailto:contact@anisdhia.me)
 *   <img align="center" src="./svgs/icons8-programming-flag.svg" height="40"/>  I'm currently working at [<img align="center" src="https://www.condor.dz/templates/tmplcondornew/images/logo_blue.png" height="24" target="_blank"/>](https://condor.dz)
 *   <img align="center" src="./svgs/icons8-learning.svg" height="40"/>  I'm learning Express.js [<img align="center" src="https://github.com/user-attachments/assets/a8349e11-5bf8-4638-92fe-7e3a8badc1e1" height="24" target="_blank"/>](https://expressjs.com) & MongoDB [<img align="center" src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" height="24" target="_blank"/>](https://vuejs.org)
-*   <img align="center" src="./svgs/icons8-handshake.svg" height="40"/>  I'm open to collaboration
+*   <img align="center" src="./svgs/icons8-handshake.svg" height="40"/>  I'm open to work & collaboration
 
 <a href="https://www.github.com/anisdhia" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/anisdhia?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
