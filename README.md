@@ -1,6 +1,6 @@
 ##  <img align="center" src="./svgs/icons8-bendy.svg" height="64" /> Hi My name is Anis 
 
-‎I am a passionate Software Engineer specializing in Flutter mobile and desktop development with a strong background in computer systems engineering. My expertise lies in building robust and visually stunning cross-platform applications. Additionally, I have a keen interest in game development and embedded systems, constantly seeking opportunities to expand my knowledge and skills in these domains.
+‎I am a passionate Software Engineer specializing in front-end development. With a strong background in computer systems engineering. My expertise lies in building robust and visually stunning cross-platform applications. With a focus on pixel-perfect design, high performance, and a seamless user experience. Additionally, I have a keen interest in game development and embedded systems, constantly seeking opportunities to expand my knowledge and skills in these domains.
 
 *   <img align="center" src="./svgs/icons8-globe.svg" height="40"/>  I'm based in Algeria
 *   <img align="center" src="./svgs/icons8-portfolio.svg" height="40"/>  See my portfolio [here](https://anisdhia.dev/)
@@ -15,17 +15,17 @@ src="https://img.shields.io/github/followers/anisdhia?logo=github&style=for-the-
 ## SKILLS
 ------------------------
 ### Languages
-[<code><img height="40" src="https://img.icons8.com/color/48/000000/dart.png"></code>](https://dart.dev)
 [<code><img height="40" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000"></code>]()
 [<code><img height="40" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"></code>]()
+[<code><img height="40" src="https://img.icons8.com/color/48/000000/dart.png"></code>](https://dart.dev)
 [<code><img height="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code>]()
 [<code><img height="40" src="https://img.icons8.com/color/452/c-programming.png"></code>]()
 <code><img height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"></code>
 ### Mobile & Web Technologies
-[<code><img height="40" src="https://img.icons8.com/color/48/000000/flutter.png"></code>](https://flutter.dev)
-[<code><img height="40" src="https://img.icons8.com/?size=100&id=eETV3RNHVrWA&format=png&color=000000"></code>]()
 [<code><img height="40" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000"></code>]()
 [<code><img height="40" src="./svgs/nextjs.svg" height="24" target="_blank"/></code>](https://nextjs.org)
+[<code><img height="40" src="https://img.icons8.com/color/48/000000/flutter.png"></code>](https://flutter.dev)
+[<code><img height="40" src="https://img.icons8.com/?size=100&id=eETV3RNHVrWA&format=png&color=000000"></code>]()
 ### Backend & Databases
 [<code><img height="40" src="https://img.icons8.com/color/48/000000/firebase.png"></code>](https://firebase.google.com)
 [<code><img height="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored.svg"></code>](https://appwrite.io)
@@ -35,7 +35,6 @@ src="https://img.shields.io/github/followers/anisdhia?logo=github&style=for-the-
 [<code><img height="40" src="https://img.icons8.com/color/48/000000/figma--v1.png"></code>](https://www.figma.com)
 [<code><img height="40" src="https://img.icons8.com/color/48/000000/git.png"></code>](https://git-scm.com)
 [<code><img height="40" src="./svgs/icons8-arch-linux.svg"></code>](https://archlinux.org)
-<code><img height="40" src="https://img.icons8.com/color/48/000000/linux.png"></code>
 [<code><img height="40" src="https://img.icons8.com/color/48/000000/docker.png"></code>](https://app.docker.com)
 
 
