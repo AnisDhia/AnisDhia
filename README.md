@@ -1,13 +1,13 @@
 ##  <img align="center" src="./svgs/icons8-bendy.svg" height="64" /> Hi My name is Anis 
 
-‎I am a passionate Software Engineer specializing in front-end development. With a strong background in computer systems engineering. My expertise lies in building robust and visually stunning cross-platform applications. With a focus on pixel-perfect design, high performance, and a seamless user experience. Additionally, I have a keen interest in game development and embedded systems, constantly seeking opportunities to expand my knowledge and skills in these domains.
+‎I am a passionate Software Engineer specializing in front-end development, with a master's degree in Software Engineering. My expertise lies in building robust and visually stunning cross-platform applications. With a focus on pixel-perfect design, high performance, and a seamless user experience. Additionally, I am keenly interested in game development and low-level systems, constantly seeking opportunities to expand my knowledge and skills in these domains.
 
 *   <img align="center" src="./svgs/icons8-globe.svg" height="40"/>  I'm based in Algeria
 *   <img align="center" src="./svgs/icons8-portfolio.svg" height="40"/>  See my portfolio [here](https://anisdhia.dev/)
 *   <img align="center" src="./svgs/icons8-email.svg" height="40"/>  You can contact me at [contact@anisdhia.dev](mailto:contact@anisdhia.dev)
-*   <img align="center" src="./svgs/icons8-programming-flag.svg" height="40"/>  I'm currently working at [<img align="center" src="https://www.condor.dz/templates/tmplcondornew/images/logo_blue.png" height="24" target="_blank"/>](https://condor.dz)
+*   <img align="center" src="./svgs/icons8-programming-flag.svg" height="40"/>  I'm currently working looking for new opportunities
 *   <img align="center" src="./svgs/icons8-learning.svg" height="40"/>  I'm learning Express.js [<img align="center" src="https://github.com/user-attachments/assets/a8349e11-5bf8-4638-92fe-7e3a8badc1e1" height="24" target="_blank"/>](https://expressjs.com) & MongoDB [<img align="center" src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" height="24" target="_blank"/>](https://vuejs.org)
-*   <img align="center" src="./svgs/icons8-handshake.svg" height="40"/>  I'm open to work & collaboration
+*   <img align="center" src="./svgs/icons8-handshake.svg" height="40"/>  I'm open to work & collaboration projects
 
 <a href="https://www.github.com/anisdhia" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/anisdhia?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
