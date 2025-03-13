@@ -1,12 +1,12 @@
 ##  <img align="center" src="./svgs/icons8-bendy.svg" height="64" /> Sup, You can call me Anis or Dhia 
 
-I'm passionate about coding, and I do a bit of everything from frontend to backend, mobile apps, games, whatever weird low-level stuff or even UI/UX.
+I'm passionate about coding, and I like to tinker with new stuff. I do a bit of everything from frontend to backend, mobile apps, games, whatever random low-level stuff or even UI/UX.
 
 *   <img align="center" src="./svgs/icons8-globe.svg" height="40"/>  I'm based in Algeria
 *   <img align="center" src="./svgs/icons8-portfolio.svg" height="40"/>  See my portfolio [here](https://anisdhia.dev/)
 *   <img align="center" src="./svgs/icons8-email.svg" height="40"/>  You can contact me at [contact@anisdhia.dev](mailto:contact@anisdhia.dev)
 *   <img align="center" src="./svgs/icons8-programming-flag.svg" height="40"/>  I'm currently looking for new opportunities
-*   <img align="center" src="./svgs/icons8-learning.svg" height="40"/>  I'm currently trying to specialize in front-end and grow my knowledge here
+*   <img align="center" src="./svgs/icons8-learning.svg" height="40"/>  Lately I'm trying to specialize in front-end and grow my knowledge there
 *   <img align="center" src="./svgs/icons8-handshake.svg" height="40"/>  I'm open to work & collaboration projects
 
 <a href="https://www.github.com/anisdhia" target="_blank" rel="noreferrer"><img
