@@ -1,6 +1,6 @@
 ##  <img align="center" src="./svgs/icons8-bendy.svg" height="64" /> Sup, You can call me Anis or Dhia 
 
-I'm passionate about coding, and I like to tinker with new stuff. I do a bit of everything from frontend to backend, mobile apps, games, whatever random low-level stuff or even UI/UX.
+been passionate about coding for 6 years, and I like to tinker with new stuff. I do a bit of everything from frontend to backend, mobile apps, games, whatever random low-level stuff or even UI/UX.
 
 *   <img align="center" src="./svgs/icons8-globe.svg" height="40"/>  I'm based in Algeria
 *   <img align="center" src="./svgs/icons8-portfolio.svg" height="40"/>  See my portfolio [here](https://anisdhia.dev/)
