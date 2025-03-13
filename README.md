@@ -1,12 +1,12 @@
 ##  <img align="center" src="./svgs/icons8-bendy.svg" height="64" /> Hi My name is Anis 
 
-‎I am a passionate Software Engineer specializing in front-end development, with a master's degree in Software Engineering. My expertise lies in building robust and visually stunning cross-platform applications. With a focus on pixel-perfect design, high performance, and a seamless user experience. Additionally, I am keenly interested in game development and low-level systems, constantly seeking opportunities to expand my knowledge and skills in these domains.
+I'm passionate about coding, and I do a bit of everything from frontend to backend, mobile apps, games, whatever weird low-level stuff or even UI/UX.
 
 *   <img align="center" src="./svgs/icons8-globe.svg" height="40"/>  I'm based in Algeria
 *   <img align="center" src="./svgs/icons8-portfolio.svg" height="40"/>  See my portfolio [here](https://anisdhia.dev/)
 *   <img align="center" src="./svgs/icons8-email.svg" height="40"/>  You can contact me at [contact@anisdhia.dev](mailto:contact@anisdhia.dev)
-*   <img align="center" src="./svgs/icons8-programming-flag.svg" height="40"/>  I'm currently working looking for new opportunities
-*   <img align="center" src="./svgs/icons8-learning.svg" height="40"/>  I'm learning Express.js [<img align="center" src="https://github.com/user-attachments/assets/a8349e11-5bf8-4638-92fe-7e3a8badc1e1" height="24" target="_blank"/>](https://expressjs.com) & MongoDB [<img align="center" src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" height="24" target="_blank"/>](https://vuejs.org)
+*   <img align="center" src="./svgs/icons8-programming-flag.svg" height="40"/>  I'm currently looking for new opportunities
+*   <img align="center" src="./svgs/icons8-learning.svg" height="40"/>  I'm currently trying to specialize in front-end and grow my knowledge here
 *   <img align="center" src="./svgs/icons8-handshake.svg" height="40"/>  I'm open to work & collaboration projects
 
 <a href="https://www.github.com/anisdhia" target="_blank" rel="noreferrer"><img
@@ -38,12 +38,6 @@ src="https://img.shields.io/github/followers/anisdhia?logo=github&style=for-the-
 [<code><img height="40" src="https://img.icons8.com/color/48/000000/git.png"></code>](https://git-scm.com)
 [<code><img height="40" src="./svgs/icons8-arch-linux.svg"></code>](https://archlinux.org)
 [<code><img height="40" src="https://img.icons8.com/color/48/000000/docker.png"></code>](https://app.docker.com)
-
-
-
-<!-- <code><img height="40" src="https://img.icons8.com/color/48/000000/javascript--v1.png"></code> -->
-<!-- <code><img height="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png"></code> -->
-<!-- <code><img height="40" src="https://img.icons8.com/color/48/000000/css3.png"></code> -->
 
 ## SOCIALS
 ------------------------
