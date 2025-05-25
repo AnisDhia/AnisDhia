@@ -5,7 +5,7 @@ I'm passionate about coding, and I like to tinker with random new stuff. I do a 
 *   <img align="center" src="./svgs/icons8-globe.svg" height="40"/>  I'm based in Algeria
 *   <img align="center" src="./svgs/icons8-portfolio.svg" height="40"/>  See my portfolio [here](https://anisdhia.dev/)
 *   <img align="center" src="./svgs/icons8-email.svg" height="40"/>  You can contact me at [contact@anisdhia.dev](mailto:contact@anisdhia.dev)
-*   <img align="center" src="./svgs/icons8-programming-flag.svg" height="40"/>  I'm currently looking for new opportunities
+*   <img align="center" src="./svgs/icons8-programming-flag.svg" height="40"/>  I'm currently a freelancer and looking for new full-time opportunities
 *   <img align="center" src="./svgs/icons8-learning.svg" height="40"/>  Lately I'm trying to specialize in front-end and grow my knowledge there
 *   <img align="center" src="./svgs/icons8-handshake.svg" height="40"/>  I'm open to work & collaboration projects
 
